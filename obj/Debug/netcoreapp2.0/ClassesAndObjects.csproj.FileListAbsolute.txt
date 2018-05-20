@@ -1,0 +1,4 @@
+/Users/patrickthesailorman/Dev/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.csprojAssemblyReference.cache
+/Users/patrickthesailorman/Dev/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.csproj.CoreCompileInputs.cache
+/Users/patrickthesailorman/Dev/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.AssemblyInfoInputs.cache
+/Users/patrickthesailorman/Dev/ClassesAndObjects/obj/Debug/netcoreapp2.0/ClassesAndObjects.AssemblyInfo.cs
